@@ -1,0 +1,111 @@
+Index,Company_name,Rating,Reviews,Industry_type,Total_headquater,Total_jobs,Total_employee
+0,Tata Consultancy Services,3.9,1.2LReviews,Software Development,39 office locations,643,10000+ Employees
+1,Accenture,4.1,1.5LReviews,Business Consulting,37 office locations,23T,10000+ Employees
+2,Amazon,4.1,1.7LReviews,Internet & Web Services,65 office locations,9.1T,10000+ Employees
+3,Cognizant Technology Solutions,3.9,84.7TReviews,Information Technology Support Services,27 office locations,4T,10000+ Employees
+4,Deloitte,4.1,97.6TReviews,Accounting & Tax,33 office locations,40.5T,10000+ Employees
+5,IBM,4.2,1LReviews,Information Technology Support Services,37 office locations,4.7T,10000+ Employees
+6,Capgemini,4,68.5TReviews,Enterprise Software & Network Solutions,54 office locations,9.2T,10000+ Employees
+7,Wipro,3.8,53.1TReviews,Information Technology Support Services,38 office locations,1.4T,10000+ Employees
+8,EY,3.9,70.1TReviews,Accounting & Tax,5 office locations,13.5T,10000+ Employees
+9,HCLTech,3.7,39.9TReviews,Computer Hardware Development,26 office locations,886,10000+ Employees
+10,Tata Consultancy Services,3.9,1.2LReviews,Software Development,39 office locations,643,10000+ Employees
+11,Accenture,4.1,1.5LReviews,Business Consulting,37 office locations,23T,10000+ Employees
+12,Amazon,4.1,1.7LReviews,Internet & Web Services,65 office locations,9.1T,10000+ Employees
+13,Cognizant Technology Solutions,3.9,84.7TReviews,Information Technology Support Services,27 office locations,4T,10000+ Employees
+14,Deloitte,4.1,97.6TReviews,Accounting & Tax,33 office locations,40.5T,10000+ Employees
+15,IBM,4.2,1LReviews,Information Technology Support Services,37 office locations,4.7T,10000+ Employees
+16,Capgemini,4,68.5TReviews,Enterprise Software & Network Solutions,54 office locations,9.2T,10000+ Employees
+17,Wipro,3.8,53.1TReviews,Information Technology Support Services,38 office locations,1.4T,10000+ Employees
+18,EY,3.9,70.1TReviews,Accounting & Tax,5 office locations,13.5T,10000+ Employees
+19,HCLTech,3.7,39.9TReviews,Computer Hardware Development,26 office locations,886,10000+ Employees
+20,Oracle,3.9,48.3TReviews,Enterprise Software & Network Solutions,44 office locations,2.8T,10000+ Employees
+21,PwC,3.9,71.3TReviews,Accounting & Tax,75 office locations,22.2T,1001 to 5000 Employees
+22,Tech Mahindra,3.6,31.4TReviews,Information Technology Support Services,29 office locations,483,10000+ Employees
+23,Microsoft,4.4,48TReviews,Computer Hardware Development,60 office locations,877,10000+ Employees
+24,KPMG,3.8,54.8TReviews,Business Consulting,26 office locations,125,10000+ Employees
+25,Teleperformance,4.5,47.3TReviews,Telecommunications Services,37 office locations,1.8T,10000+ Employees
+26,Google,4.4,43.2TReviews,Internet & Web Services,"Headquarters in Mountain View, United States",1.8T,10000+ Employees
+27,Dell Technologies,4.3,32.4TReviews,Information Technology Support Services,25 office locations,482,10000+ Employees
+28,Cisco Systems,4.4,31TReviews,Enterprise Software & Network Solutions,25 office locations,493,10000+ Employees
+29,Wells Fargo,3.7,45.3TReviews,Banking & Lending,26 office locations,3.7T,10000+ Employees
+30,DXC Technology,3.6,23.3TReviews,Information Technology Support Services,26 office locations,1.7T,10000+ Employees
+31,Genpact,4,19.8TReviews,Information Technology Support Services,64 office locations,3.4T,10000+ Employees
+32,Concentrix,4.3,28.9TReviews,Information Technology Support Services,30 office locations,2.1T,10000+ Employees
+33,LTI,3.8,12.3TReviews,Information Technology Support Services,27 office locations,656,10000+ Employees
+34,J.P. Morgan,4.1,23.2TReviews,Investment & Asset Management,25 office locations,2.4T,10000+ Employees
+35,Citi,3.9,31TReviews,Investment & Asset Management,26 office locations,9T,10000+ Employees
+36,Intel Corporation,4.2,28.3TReviews,Computer Hardware Development,32 office locations,1.6T,10000+ Employees
+37,SAP,4.4,27.8TReviews,Enterprise Software & Network Solutions,28 office locations,2T,10000+ Employees
+38,HSBC,3.8,26.8TReviews,Banking & Lending,9 office locations,3.7T,10000+ Employees
+39,Qualcomm,4.1,9.6TReviews,Computer Hardware Development,34 office locations,145,10000+ Employees
+40,ABC,3.9,14.4TReviews,Broadcast Media,7 office locations,66,10000+ Employees
+41,Bank of America,4,37.8TReviews,Banking & Lending,25 office locations,744,10000+ Employees
+42,Goldman Sachs,3.9,16.6TReviews,Investment & Asset Management,25 office locations,861,10000+ Employees
+43,Target,4.4,75.3TReviews,General Merchandise & Superstores,5 office locations,11.1T,1001 to 5000 Employees
+44,Mindtree,4,11.1TReviews,Information Technology Support Services,31 office locations,61,10000+ Employees
+45,Honeywell,4,19.7TReviews,Computer Hardware Development,25 office locations,3.7T,10000+ Employees
+46,CGI,3.9,15.8TReviews,Business Consulting,46 office locations,2.3T,10000+ Employees
+47,Barclays,4,17.5TReviews,Banking & Lending,27 office locations,1.6T,10000+ Employees
+48,Siemens,4.1,19.9TReviews,Electronics Manufacturing,39 office locations,12.9T,10000+ Employees
+49,ICICI Bank,3.7,11.3TReviews,Banking & Lending,25 office locations,19,10000+ Employees
+50,Ericsson-Worldwide,4.1,17.7TReviews,Telecommunications Services,26 office locations,771,10000+ Employees
+51,Mphasis,3.6,8.5TReviews,Information Technology Support Services,33 office locations,38,10000+ Employees
+52,Verizon,3.9,32TReviews,Telecommunications Services,23 office locations,955,10000+ Employees
+53,JPMorgan Chase & Co,4,22.1TReviews,Banking & Lending,"Headquarters in New York, United States",24,10000+ Employees
+54,ADP,4,18.2TReviews,Enterprise Software & Network Solutions,18 office locations,2.1T,10000+ Employees
+55,Nokia,4.2,17.4TReviews,Telecommunications Services,29 office locations,1.2T,10000+ Employees
+56,NTT DATA,3.9,13.4TReviews,Information Technology Support Services,57 office locations,7.6T,10000+ Employees
+57,Hewlett Packard Enterprise | HPE,4.2,16.6TReviews,Information Technology Support Services,25 office locations,1.6T,10000+ Employees
+58,Morgan Stanley,3.9,17.1TReviews,Investment & Asset Management,71 office locations,857,10000+ Employees
+59,Capgemini Engineering,3.7,11.6TReviews,Information Technology Support Services,22 office locations,2.3T,10000+ Employees
+60,Freelancer,4.2,14.2TReviews,HR Consulting,16 office locations,44,501 to 1000 Employees
+61,American Express,4.2,15.5TReviews,Financial Transaction Processing,22 office locations,150,10000+ Employees
+62,Salesforce,4.4,16.5TReviews,Enterprise Software & Network Solutions,58 office locations,572,10000+ Employees
+63,Amdocs,4,10.5TReviews,Enterprise Software & Network Solutions,39 office locations,225,10000+ Employees
+64,Publicis Sapient,3.8,9TReviews,Business Consulting,53 office locations,289,10000+ Employees
+65,Robert Bosch,4.2,14.8TReviews,Computer Hardware Development,33 office locations,307,10000+ Employees
+66,ZS Associates,3.8,6.7TReviews,Business Consulting,37 office locations,99,10000+ Employees
+67,IQVIA,4,12.4TReviews,Biotech & Pharmaceuticals,2 office locations,2.4T,10000+ Employees
+68,Thomson Reuters,4.4,14.8TReviews,Enterprise Software & Network Solutions,17 office locations,694,10000+ Employees
+69,McDonald's,3.5,1.2LReviews,Restaurants & Cafes,2 office locations,96.3T,10000+ Employees
+70,FIS,3.7,10.8TReviews,Financial Transaction Processing,62 office locations,1.1T,10000+ Employees
+71,Vodafone,4,15.9TReviews,Telecommunications Services,30 office locations,5.3T,10000+ Employees
+72,UST,3.9,7.2TReviews,Information Technology Support Services,50 office locations,1.5T,10000+ Employees
+73,Cerner,3.6,9.8TReviews,Computer Hardware Development,25 office locations,84,10000+ Employees
+74,Fidelity Investments,4.3,14.4TReviews,Investment & Asset Management,15 office locations,1T,10000+ Employees
+75,GE,4,17.9TReviews,Machinery Manufacturing,37 office locations,1.6T,10000+ Employees
+76,Apple,4.4,37.7TReviews,Computer Hardware Development,25 office locations,4T,10000+ Employees
+77,Virtusa,3.8,8TReviews,Information Technology Support Services,28 office locations,66,10000+ Employees
+78,Larsen & Toubro,3.8,7TReviews,Construction,26 office locations,61,10000+ Employees
+79,Atos-Syntel,3.6,7.5TReviews,Information Technology Support Services,29 office locations,39,10000+ Employees
+80,HDFC Bank,3.6,7.6TReviews,Banking & Lending,6 office locations,7.1T,10000+ Employees
+81,VMware,4.5,10.5TReviews,Enterprise Software & Network Solutions,46 office locations,1.2T,10000+ Employees
+82,Adobe,4.4,8.7TReviews,Computer Hardware Development,27 office locations,421,10000+ Employees
+83,Atos,3.7,11.9TReviews,Information Technology Support Services,40 office locations,2.3T,10000+ Employees
+84,UnitedHealth Group,3.7,15.8TReviews,Healthcare Services & Hospitals,25 office locations,4.9T,10000+ Employees
+85,Deutsche Bank,4,11.7TReviews,Banking & Lending,53 office locations,3.2T,10000+ Employees
+86,Tata Consultancy Services (North America),3.8,8.8TReviews,Information Technology Support Services,31 office locations,660,10000+ Employees
+87,Schneider Electric,4.2,13.4TReviews,Energy & Utilities,25 office locations,4.2T,10000+ Employees
+88,Philips,4.1,11TReviews,Healthcare Services & Hospitals,26 office locations,1.1T,10000+ Employees
+89,Samsung Electronics,3.8,13.5TReviews,Electronics Manufacturing,21 office locations,46,10000+ Employees
+90,TCS,3.9,6.6TReviews,N/A,"Headquarters in Leingarten, Germany",--,Unknown
+91,Credit Suisse,4,11.3TReviews,Investment & Asset Management,25 office locations,404,10000+ Employees
+92,Cognizant,3.8,6.5TReviews,N/A,"Headquarters in New Delhi, India",--,1 to 50 Employees
+93,BNY Mellon,3.6,10.8TReviews,Investment & Asset Management,26 office locations,6.1T,10000+ Employees
+94,Lowe's Home Improvement,4.3,38.7TReviews,Home Furniture & Housewares Stores,2 office locations,6.8T,1001 to 5000 Employees
+95,NatWest Group,4,8.7TReviews,Banking & Lending,33 office locations,832,10000+ Employees
+96,Zensar Technologies,3.9,4.2TReviews,Information Technology Support Services,20 office locations,179,5001 to 10000 Employees
+97,McKinsey & Company,4.3,9.7TReviews,Business Consulting,25 office locations,82,10000+ Employees
+98,Persistent Systems,4,5.7TReviews,Information Technology Support Services,56 office locations,49,10000+ Employees
+99,Hexaware Technologies,3.8,5TReviews,Information Technology Support Services,15 office locations,91,10000+ Employees
+100,Sutherland,3.8,8.5TReviews,HR Consulting,30 office locations,303,10000+ Employees
+101,Axis Bank,3.8,6.3TReviews,Banking & Lending,25 office locations,17,10000+ Employees
+102,Reliance Industries,3.9,6.1TReviews,Energy & Utilities,25 office locations,43,10000+ Employees
+103,Unilever,4.1,14.6TReviews,Consumer Product Manufacturing,25 office locations,1.3T,10000+ Employees
+104,BNP Paribas,3.8,13.1TReviews,Banking & Lending,26 office locations,6.3T,10000+ Employees
+105,UBS,4,13TReviews,Investment & Asset Management,19 office locations,1.2T,10000+ Employees
+106,Jio,3.8,5.3TReviews,"Cable, Internet & Telephone Providers",25 office locations,66,5001 to 10000 Employees
+107,Flipkart,4,4.8TReviews,Internet & Web Services,10 office locations,131,10000+ Employees
+108,AT&T,3.7,38.6TReviews,Telecommunications Services,25 office locations,2.8T,10000+ Employees
+109,GlobalLogic,4,6.1TReviews,Information Technology Support Services,40 office locations,976,10000+ Employees
