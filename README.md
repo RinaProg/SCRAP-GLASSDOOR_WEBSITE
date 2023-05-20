@@ -16,6 +16,7 @@ pip install requests
 ### Retrive HTML code :
 ``` python
 import requests
+
 headers={'User-Agent':'Mozilla/5.0 (Windows NT 6.3; Win 64 ; x64) Apple WeKit /537.36(KHTML , like Gecko) Chrome/80.0.3987.162 Safari/537.36'}
 url='https://www.glassdoor.co.in/Explore/browse-companies.html?'
 webpage=requests.get(url,headers=headers).text
@@ -36,6 +37,8 @@ Install Beautiful Soup ->
 ```python
 soup=BeautifulSoup(webpage, 'lxml')
 ```
+### Find the dataset in csv format [here]()
+
 ## STEPS FOR SCRAPING ANY WEBSITE :
 - Step 1:Step through a web scraping pipeline from start to finish.
 - Step 2:Inspect the HTML structure of your target site with your browser’s developer tools.
