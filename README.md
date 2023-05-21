@@ -40,12 +40,12 @@ soup=BeautifulSoup(webpage, 'lxml')
 ### Find the dataset in `csv` format [here](https://github.com/RinaProg/SCRAP-GLASSDOOR_WEBSITE/tree/master/list_of_company_dataset)
 
 ## STEPS FOR SCRAPING ANY WEBSITE :
-- Step 1:Step through a web scraping pipeline from start to finish.
-- Step 2:Inspect the HTML structure of your target site with your browser’s developer tools.
-- Step 3:Decipher the data encoded in URLs.
-- Step 4:Get the HTML content using Python’s requests library.
-- Step 5:Parse the HTML with Beautiful Soup to extract relevant information
-- Step 6:Build a script that fetches all data from the Web and displays relevant information in your console.
+- Step 1: Step through a web scraping pipeline from start to finish.
+- Step 2: Inspect the HTML structure of your target site with your browser’s developer tools.
+- Step 3: Decipher the data encoded in URLs.
+- Step 4: Get the HTML content using Python’s requests library.
+- Step 5: Parse the HTML with Beautiful Soup to extract relevant information
+- Step 6: Build a script that fetches all data from the Web and displays relevant information in your console.
 
 ## COMMENT :
 In this Project,how to scrape data from the Web using Python, requests, and Beautiful Soup.Built a script that fetches data from the Internet and went through the complete web scraping process from start to finish.
